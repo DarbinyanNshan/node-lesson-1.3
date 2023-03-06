@@ -1,0 +1,23 @@
+{
+  "name": "lesson-1.3",
+  "version": "1.0.0",
+  "description": "Node secound lesson project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarbinyanNshan/node-lesson-1.3.git"
+  },
+  "author": "Nshan Darbinyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarbinyanNshan/node-lesson-1.3/issues"
+  },
+  "homepage": "https://github.com/DarbinyanNshan/node-lesson-1.3#readme",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
